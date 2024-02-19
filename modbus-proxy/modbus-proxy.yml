@@ -1,5 +1,5 @@
 devices:
   - modbus:
-      url: <inverter-ip>:502
+      url: 192.168.2.165:502
     listen:
       bind: 0:502
